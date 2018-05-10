@@ -1,0 +1,3 @@
+C:/Users/nikol/CLionProjects/SPO_LAB_2_WIN/cmake-build-debug/CMakeFiles/SPO_LAB_2_WIN.dir
+C:/Users/nikol/CLionProjects/SPO_LAB_2_WIN/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nikol/CLionProjects/SPO_LAB_2_WIN/cmake-build-debug/CMakeFiles/rebuild_cache.dir

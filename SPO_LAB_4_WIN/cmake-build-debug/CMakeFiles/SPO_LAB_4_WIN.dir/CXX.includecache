@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/nikol/CLionProjects/SPO_LAB_4_WIN/main.cpp
+iostream
+-
+list
+-
+windows.h
+-
+stdlib.h
+-
+
